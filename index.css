@@ -1,0 +1,19 @@
+
+h2{
+	text-align: center;
+	padding: 20px;
+}
+
+body{
+	background-image:url(media/images/hogwarts.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.carousel img {
+	border-radius: 25px;
+}
+
+.carousel-control.prev, .carousel-control.next{
+	background: transparent;
+}
